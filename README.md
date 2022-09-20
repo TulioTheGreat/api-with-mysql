@@ -1,2 +1,2 @@
-# Esta é uma API conecta ao banco MYSQL
+# Esta é uma API conectada ao banco MYSQL
  
